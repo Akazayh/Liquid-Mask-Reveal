@@ -1,0 +1,22 @@
+{
+  "name": "my_exemple",
+  "version": "1.0.0",
+  "description": "Liquid Mask Reveal - GPU wave simulation with two-image reveal",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["webgl", "threejs", "fluid", "simulation", "reveal"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.185.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.185.4",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2"
+  }
+}
